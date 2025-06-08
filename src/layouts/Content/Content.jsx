@@ -1,11 +1,11 @@
-import "./Content.scss";
+import './Content.scss'
 
 const Content = (props) => {
-    const {children} = props;
+    const { children } = props
 
     return (
         <main className="content">
-            { children }
+            {children}
         </main>
     )
 }
