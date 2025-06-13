@@ -1,5 +1,5 @@
 import './Hero.scss';
-import Button from "@/components/Button/index.js";
+import Button from "@/components/Button";
 
 const Hero = () => {
     const playButtonTitle = 'Play video';
